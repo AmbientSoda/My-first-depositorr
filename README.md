@@ -2,3 +2,5 @@
 My test 
 
 This is another test
+
+new feature
